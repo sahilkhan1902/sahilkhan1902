@@ -2,6 +2,10 @@
 
 I'm a passionate self-taught Software Engineer with a love for coding and building cool projects.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilkhan1902/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: sahilkhan2002786@gmail.com
+
 ## 🔧 Skills
 
 ### Programming Languages
