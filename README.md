@@ -20,7 +20,7 @@ I'm a passionate self-taught Frontend Engineer with a love for coding and buildi
 
 ### Technologies
 - Git 🐙
-- GitHub Octocat 🐱
+- GitHub 🐱
 - Postman 📬
 - Jira 📊
 
@@ -70,6 +70,8 @@ I'm a passionate self-taught Frontend Engineer with a love for coding and buildi
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![npm](https://img.shields.io/badge/npm-CA4245?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+
 
 
 ## 🤝 Open to Collaboration
