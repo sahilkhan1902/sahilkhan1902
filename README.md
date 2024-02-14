@@ -15,7 +15,7 @@ I'm a passionate self-taught Frontend Engineer with a love for coding and buildi
 - Java ☕️
 
 ### Frameworks
-- React 🚀
+- React js 🚀
 - Next.js ⚛️
 
 ### Technologies
