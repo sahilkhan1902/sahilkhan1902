@@ -1,11 +1,23 @@
-# Hello, I'm Sahil Khan! 👋
+# 👋 Hello, I'm Sahil Khan!
 
-I'm a passionate self-taught Frontend Engineer with a love for coding and building cool projects.
+🎯 Passionate **React Developer** with 1.8 years of experience building responsive, scalable, and high-performance web applications using React.js, Redux, and Tailwind CSS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilkhan1902/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sahilkhan2002786@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilkhan2002786@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilkhan1902)
 
+---
 
+## 🧑‍💻 Professional Summary
+
+Self-motivated and detail-oriented Frontend Engineer with expertise in:
+- Creating modular and reusable components in React
+- State management using Redux
+- Styling with Tailwind CSS and Material UI
+- Writing clean, maintainable JavaScript code
+- Collaborating in Agile teams to deliver high-quality applications
+
+---
 ## ♨ Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -57,30 +69,50 @@ I'm a passionate self-taught Frontend Engineer with a love for coding and buildi
 - Open Source Contributions
 - UI/UX Design
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-1. **Tasty Bites**
-   - Developed "Tasty Bites Food" Website using ReactJs all-screen responsive built from scratch.
-• Seamlessly integrated live API data fetching enable real-time by 20% fast and accurate.
-• Leveraged Tailwind CSS for styling responsive and enhance UI by 10%.
-• Efficiently managed state by18% using Redux and ensured fast routing by React Router DOM.
-• Tech Stack: ReactJs, JavaScript, Parcel, Redux, Tailwind CSS, Live API, Git & GitHub..
-   - GitHub Repository: https://github.com/sahilkhan1902/Tastybites
+### 🍔 [Tasty Bites](https://github.com/sahilkhan1902/Tastybites)
+> Food delivery single-page app (SPA)
+- React + Redux + Tailwind CSS + Live API
+- Boosted performance with real-time data fetching (20% faster)
+- Client-side routing with React Router DOM
 
-2. **YouTube Clone**
-   -• Build optimized YouTube clone using ReactJS, Tailwind CSS, and modern web tech.
-• Debouncing improved search with 20% less API calls
-• Implemented YouTube iframe and Live chat with Redux for seamless interactions.
-• Effectively deployed the YouTube clone web app to the live environment utilizing Netlify.
-• Tech Stack: React, Redux, Tailwind CSS, Live API, Routing.
-   - GitHub Repository: https://github.com/sahilkhan1902/YoutubeClone
+### 📺 [YouTube Clone](https://github.com/sahilkhan1902/YoutubeClone)
+> YouTube-like clone with search & live chat
+- React + Tailwind + YouTube API + Redux
+- Implemented debounced search and simulated live chat
+- Deployed on Netlify
 
+---
 
+## 🧑‍🎓 Education & Certifications
 
+- **B.Tech in Mechanical Engineering**  
+  Maharishi Dayanand University (2022 – 2025)
 
+- **Certifications**  
+  - Frontend Development – SimpliLearn  
+  - Diploma in IT (Web Design) – GDF Skill Institute
 
-## 🤝 Open to Collaboration
+---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan1902&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🤝 Let's Connect!
+
+If you’re working on exciting projects or want to collaborate, feel free to reach out!
+
+📧 sahilkhan2002786@gmail.com  
+📞 +91 93151 57427  
+🌐 [LinkedIn](https://www.linkedin.com/in/sahilkhan1902/) | [GitHub](https://github.com/sahilkhan1902)
+
+---
+
+_Sahil Khan — React Developer | Frontend Specialist_
 I'm always open to collaborating on interesting projects. If you have an idea or need help with something, feel free to reach out!
 
 ## 📬 Contact
